@@ -42,7 +42,7 @@ void main()
 			saisie(liste, NE, NC);
 			affichage(liste, NE, NC);
 			break;
-		case 2:cout << "Triage alphabetique du nom et du code" << endl;
+		case 2:cout << "Tri alphabetique du nom et du code" << endl;
 			if (cond == true)
 			{
 				tri_alph_code(liste, NE);
